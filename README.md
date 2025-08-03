@@ -1,23 +1,21 @@
-# 🎁 Amigo Secreto
+# 🎁 Secret Friend
 
-Este proyecto es una aplicación web simple desarrollada con HTML, CSS y JavaScript que permite realizar un sorteo de **amigo secreto** entre un grupo de personas.
+This project is a simple web application developed with HTML, CSS and JavaScript that allows you to carry out a **secret friend** giveaway among a group of people.
 
-## 🧠 ¿En qué consiste?
+## 🧠 What does it consist of?
 
-El usuario puede ingresar nombres de amigos/as en un campo de texto. A medida que los va agregando, estos se muestran en una lista visible. Luego, con solo presionar un botón, se seleccionará un nombre **al azar**, revelando quién será el amigo secreto.
+The user can enter names of friends in a text field. As you add them, they are displayed in a visible list. Then, with the press of a button, a **random** name will be selected, revealing who the secret friend will be.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- ✅ Agregar nombres a una lista
-- ✅ Validación del campo de entrada (no se permiten campos vacíos)
-- ✅ Visualización en pantalla de los nombres agregados
-- ✅ Sorteo aleatorio de un nombre
-- ✅ Mostrar el resultado del sorteo
+- ✅ Add names to a list
+- ✅ Input field validation (empty fields are not allowed)
+- ✅ Screen display of added names
+- ✅ Random name draw
+- ✅ Show the result of the draw
 
-## 🛠 Tecnologías utilizadas
+## 🛠 Technologies used
 
 - HTML5
-- CSS3
+-CSS3
 - JavaScript (Vanilla)
-
-
