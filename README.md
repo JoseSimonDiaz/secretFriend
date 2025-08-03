@@ -19,3 +19,6 @@ The user can enter names of friends in a text field. As you add them, they are d
 - HTML5
 -CSS3
 - JavaScript (Vanilla)
+
+## Deploy
+- https://josesimondiaz.github.io/secretFriend/
